@@ -1,2 +1,9 @@
 node_modules/
 .vscode/
+.next/static/webpack/
+*hot-update.json
+*hot-update.js
+*hot-update.js.map
+.DS_Store
+*.map
+
